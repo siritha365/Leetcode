@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-words-containing-character">Find Words Containing Character</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given a <strong>0-indexed</strong> array of strings <code>words</code> and a character <code>x</code>.</p>
+<p>You are given a <strong>0-indexed</strong> array of strings <code>words</code> and a character <code>x</code>.</p>
 
 <p>Return <em>an <strong>array of indices</strong> representing the words that contain the character </em><code>x</code>.</p>
 
