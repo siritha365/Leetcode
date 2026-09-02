@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/mirror-distance-of-an-integer">Mirror Distance of an Integer</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given an integer <code>n</code>.</p>
+<p>You are given an integer <code>n</code>.</p>
 
 <p>Define its <strong>mirror distance</strong> as: <code>abs(n - reverse(n))</code>​​​​​​​ where <code>reverse(n)</code> is the integer formed by reversing the digits of <code>n</code>.</p>
 
